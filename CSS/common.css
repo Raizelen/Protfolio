@@ -1,3 +1,19 @@
+html{
+    background-color: #ff3075d7;
+}
+
+hr{
+    border: 1px solid #00ffaad3;
+}
+
+h1{
+    color: #efd800;
+}
+
+h2{
+    color: #19086f;
+}
+
 footer {
     position: fixed;
     bottom: 0;
@@ -5,6 +21,6 @@ footer {
     padding: 5px;
     margin-top: 20%;
     text-align: center;
-    background-color: #abbab7;
+    background-color: #30FFB8;
     color: #000;
   }
